@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="container pt-8">
       <div className="flex justify-between items-center">
-        <div className="text-xl font-medium">Kiani</div>
+        <div className="text-xl font-medium">Shahzad</div>
 
         <ul className="gap-10 lg:gap-16 hidden md:flex">
           <li className="menuLink">Home</li>

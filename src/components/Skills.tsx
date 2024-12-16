@@ -7,8 +7,8 @@ const Skills = () => {
         <div data-aos="zoom-in-up">
           <h2 className="text-4xl md:text-5xl">Technologies I work with</h2>
           <p className="text-gray-500 pt-2">
-          I specialize in building modern web applications using HTML, CSS, JavaScript, TypeScript, Next.js, and Tailwind CSS,
-           creating seamless user experiences with clean and efficient code."
+            I specialize in building modern web applications using HTML, CSS, JavaScript, TypeScript, Next.js, and Tailwind CSS, 
+            creating seamless user experiences with clean and efficient code.&quot;
           </p>
         </div>
 
